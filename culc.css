@@ -1,0 +1,39 @@
+body {
+    width: 350px;
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    padding-right: 10px;
+    border: 1px solid lightgray;
+}
+
+th {
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+caption {
+    caption-side: bottom;
+    text-align: center;
+}
+div {
+    margin: 100px;
+}
+#null {
+    width: 100px;
+}
+#display {
+    text-align: right;
+    margin: 10px;
+    height: 30px;
+    width: 200px;
+}
